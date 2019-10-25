@@ -1,2 +1,0 @@
-# SpaceY
-PHP Projekt NEM
