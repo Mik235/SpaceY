@@ -1,5 +1,9 @@
+<?php
+
+?>
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
   <head>
     <title>Space Y </title>
     <meta charset="utf-8">
@@ -160,8 +164,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-paragliding"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Activities</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
+		                <h3 class="heading mb-3">Aktivitäten</h3>
+		                <p>Erkunden sie neue Welten mit unseren "Active Tours" mit dem neuen Tesla Cyberrover.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -169,8 +173,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-route"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Travel Arrangements</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
+		                <h3 class="heading mb-3">Geschichte der Orte</h3>
+		                <p>Placeholder Text steht hier weil ich keine ahnung hatte was ich hier hin schreiben soll und deswegen wird hetzberg nich ncih was ausdenken müssen.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -178,8 +182,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-tour-guide"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Private Guide</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
+		                <h3 class="heading mb-3">Kleingruppen</h3>
+		                <p>Bei unseren Touren werden sie je nach Location in Kleingruppen von 3-6 Personen aufgeteilt. Auf wunsch können diese auch größer werden.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -187,7 +191,7 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-map"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Location Manager</h3>
+		                <h3 class="heading mb-3">Lorem Ipsum</h3>
 		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
 		              </div>
 		            </div>
@@ -207,8 +211,8 @@
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4">Make Your Tour Memorable and Safe With Us</h2>
-		            <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+		            <h2 class="mb-4">Wenn du unseren Urlaub buchst wird du diesen definitiv nicht vertgeesen.</h2>
+		            <p>Weit weg von allem was du kennst, erlebe neue Welten oder genieße einen Rundflug um unseren ersten Sattelieten den die Erde jemals hatte den Mond. </p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -247,7 +251,7 @@
     	<div class="container">
     		<div class="row justify-content-center pb-4">
           <div class="col-md-12 heading-section text-center ftco-animate">
-            <h2 class="mb-4">Best Place Destination</h2>
+            <h2 class="mb-4">unsere Empfehlungen</h2>
           </div>
         </div>
         <div class="row">
@@ -408,7 +412,7 @@
       <div class="container">
         <div class="row justify-content-center pb-4">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-4">Tourist Feedback</h2>
+            <h2 class="mb-4">unsere Bewertungen</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -565,7 +569,7 @@
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Vacation</h2>
+              <h2 class="ftco-heading-2">Urlaub</h2>
               <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
@@ -576,7 +580,7 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Infromation</h2>
+              <h2 class="ftco-heading-2">Infromationen</h2>
               <ul class="list-unstyled">
                 <li><a href="#" class="py-2 d-block">Online Enquiry</a></li>
                 <li><a href="#" class="py-2 d-block">General Enquiries</a></li>
