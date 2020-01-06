@@ -1,5 +1,5 @@
 <<?php
-$empfaenger = 'sebastian.brochhaus@edu.bib.de';
+$empfaenger = 'lukas.hertzberg@edu.bib.de';
 $betreff = 'Newsletter Bestätigung';
 $nachricht = 'Hallo, Danke für die Regestierung des Newsletters. ';
 $header = 'From: noreply@SpaceY.space' . "\r\n" .
