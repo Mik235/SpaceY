@@ -156,7 +156,7 @@
             <p>In unserem Braytech Futurescape Resort in Hellas Basin wird Urlaub neu definiert.</p>
             <p>Weit weg von normalen Urlaubsorten wie Italien, Amerika oder den Malediven können Sie auf unseren Urlaubsorten wie dem Mars, dem Titan oder dem Mond eine ganz neue Form von Urlaub erleben.</p>
             <p>Buchen Sie jetzt!</p>
-            <p><a href="#" class="btn btn-primary py-3 px-4">Orte suchen</a></p>
+            <p><a href="destination.html" class="btn btn-primary py-3 px-4">Orte suchen</a></p>
           </div>
           <div class="col-md-6">
           	<div class="row">
