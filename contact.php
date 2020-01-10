@@ -1,7 +1,7 @@
-<<?php
+<?php
 $empfaenger = 'lukas.hertzberg@edu.bib.de';
 $betreff = 'Newsletter Bestätigung';
-$nachricht = 'Hallo, Danke für die Regestierung des Newsletters. ';
+$nachricht = 'Hallo, Danke für die Registrierung des Newsletters. ';
 $header = 'From: noreply@SpaceY.space' . "\r\n" .
 'Reply-To: noreply@SpaceY.space' . "\r\n" .
   'X-Mailer: PHP/' . phpversion();
@@ -41,19 +41,19 @@ mail($empfaenger, $betreff, $nachricht, $header);
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Vacation<span>Travel Agency</span></a>
-	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
-	        <span class="oi oi-menu"></span> Menu
-	      </button>
+        <a class="navbar-brand" href="index.html">Space Y<span>Space Travel</span></a>
+       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+         <span class="oi oi-menu"></span> Menü
+       </button>
 
-	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-	          <li class="nav-item"><a href="destination.html" class="nav-link">Destination</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>
-	          <li class="nav-item active"><a href="contact.html" class="nav-link">Contact</a></li>
-	          <li class="nav-item cta"><a href="#" class="nav-link">Book Now</a></li>
+       <div class="collapse navbar-collapse" id="ftco-nav">
+         <ul class="navbar-nav ml-auto">
+           <li class="nav-item "><a href="index.php" class="nav-link">Falcon 9</a></li>
+           <li class="nav-item"><a href="about.html" class="nav-link">Falcon Heavy</a></li>
+           <li class="nav-item"><a href="destination.html" class="nav-link">Dragon</a></li>
+           <li class="nav-item"><a href="blog.html" class="nav-link">Starship</a></li>
+           <li class="nav-item active"><a href="contact.php" class="nav-link">Kontakt</a></li>
+           <li class="nav-item cta"><a href="#" class="nav-link">Buche Jetzt</a></li>
 
 	        </ul>
 	      </div>
@@ -66,7 +66,7 @@ mail($empfaenger, $betreff, $nachricht, $header);
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Contact Us</h1>
+            <h1 class="mb-3 bread">Ihr direkter Draht zu uns</h1>
             <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Contact us <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
@@ -81,8 +81,8 @@ mail($empfaenger, $betreff, $nachricht, $header);
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-map-signs"></span>
           		</div>
-          		<h3 class="mb-2">Address</h3>
-	            <p>198 West 21th Street, Suite 721 New York NY 10016</p>
+          		<h3 class="mb-2">Adresse</h3>
+	            <p>Hauptstraße 2, 51469 Bergisch Gladbach, Raum B-06</p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -90,8 +90,8 @@ mail($empfaenger, $betreff, $nachricht, $header);
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-phone2"></span>
           		</div>
-          		<h3 class="mb-2">Contact Number</h3>
-	            <p><a href="tel://1234567920">+ 1235 2355 98</a></p>
+          		<h3 class="mb-2">Telefon</h3>
+	            <p><a href="tel://1234567920">+ 0049 2202 12345678</a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -99,8 +99,8 @@ mail($empfaenger, $betreff, $nachricht, $header);
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-paper-plane"></span>
           		</div>
-          		<h3 class="mb-2">Email Address</h3>
-	            <p><a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+          		<h3 class="mb-2">Email Adresse</h3>
+	            <p><a href="mailto:noreply@SpaceY.space">noreply@SpaceY.space</a></p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -108,8 +108,8 @@ mail($empfaenger, $betreff, $nachricht, $header);
           		<div class="icon d-flex align-items-center justify-content-center">
           			<span class="icon-globe"></span>
           		</div>
-          		<h3 class="mb-2">Website</h3>
-	            <p><a href="#">yoursite.com</a></p>
+          		<h3 class="mb-2">Webseite</h3>
+	            <p><a href="#">SpaceY.com</a></p>
 	          </div>
           </div>
         </div>
@@ -122,19 +122,19 @@ mail($empfaenger, $betreff, $nachricht, $header);
           <div class="col-md-6 order-md-last d-flex">
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input type="text" class="form-control" placeholder="Name">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Email">
+                <input type="text" class="form-control" placeholder="Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="text" class="form-control" placeholder="Betreff">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Ihre Nachricht an uns"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
+                <input type="submit" value="Nachricht senden" class="btn btn-primary py-3 px-5">
               </div>
             </form>
 
