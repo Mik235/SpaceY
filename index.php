@@ -1,5 +1,5 @@
 <?php
-//yeet
+
 ?>
 
 <!DOCTYPE html>
@@ -67,8 +67,8 @@
           	<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
           		<span class="ion-ios-play"></span>
             </a>
-            <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reise auf andere Planeten mit uns. Ihr etntspannen auf unserem Resort auf dem Mars</p>
-            <h1 data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Der Mars die neuen Malediven</h1>
+            <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reisen Sie auf einen anderen Planeten mit uns, Ihr Urlaub - unsere Passion!</p>
+            <h1 data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Der Mars -  die neuen Malediven</h1>
           </div>
         </div>
       </div>
@@ -153,9 +153,10 @@
       <div class="container">
         <div class="row d-flex">
           <div class="col-md-6 order-md-last heading-section pl-md-5 ftco-animate">
-          	<h2 class="mb-4">Es ist zeit ihr abenteuer z starten.</h2>
-            <p>In unsemrem Braytech Futurescape Resort in Hellas Basin werden sie Urlaub neu definieren.</p>
-            <p>Weit weg von normalen Urlaubsorten wie Amerika oder den Malediven können sie auf uneren urlaubsorten wie Mars, Tiatn, Nessus und dem Mond eine ganz neue form von urlaub erleben.</p>
+          	<h2 class="mb-4">Es ist Zeit, Ihr Abenteuer zu starten.</h2>
+            <p>In unserem Braytech Futurescape Resort in Hellas Basin wird Urlaub neu definiert.</p>
+            <p>Weit weg von normalen Urlaubsorten wie Italien, Amerika oder den Malediven können Sie auf unseren Urlaubsorten wie dem Mars, dem Titan oder dem Mond eine ganz neue Form von Urlaub erleben.</p>
+            <p>Buchen Sie jetzt!</p>
             <p><a href="#" class="btn btn-primary py-3 px-4">Orte suchen</a></p>
           </div>
           <div class="col-md-6">
@@ -174,7 +175,7 @@
 		              <div class="icon"><span class="flaticon-route"></span></div>
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Geschichte der Orte</h3>
-		                <p>Placeholder Text steht hier weil ich keine ahnung hatte was ich hier hin schreiben soll und deswegen wird hetzberg nich ncih was ausdenken müssen.</p>
+		                <p>Unberührte Flecken in umserem Weltraum erleben, dort waren Ihre Nachbar bestimmt noch nicht!</p>
 		              </div>
 		            </div>
 		          </div>
@@ -183,7 +184,7 @@
 		              <div class="icon"><span class="flaticon-tour-guide"></span></div>
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Kleingruppen</h3>
-		                <p>Bei unseren Touren werden sie je nach Location in Kleingruppen von 3-6 Personen aufgeteilt. Auf wunsch können diese auch größer werden.</p>
+		                <p>Bei unseren Touren werden sie je nach Location in Kleingruppen von 3-6 Personen aufgeteilt. Auf Wunsch können diese auch größer werden.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -191,8 +192,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-map"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Lorem Ipsum</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
+		                <h3 class="heading mb-3">Anreise</h3>
+		                <p>Moderne und schnelle Anreise, für Sie so komfortabel wie möglich. Sie werden wieder die exklusivität Spüren, die Fliegen früher versprach.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -206,13 +207,13 @@
     	<div class="container">
     		<div class="row d-flex">
     			<div class="col-md-6 d-flex">
-    				<div class="img d-flex align-self-stretch" style="background-image:url(images/about.jpg);"></div>
+    				<div class="img d-flex align-self-stretch" style="background-image:url(images/spacex.jpg);"></div>
     			</div>
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4">Wenn du unseren Urlaub buchst wird du diesen definitiv nicht vertgeesen.</h2>
-		            <p>Weit weg von allem was du kennst, erlebe neue Welten oder genieße einen Rundflug um unseren ersten Sattelieten den die Erde jemals hatte den Mond. </p>
+		            <h2 class="mb-4">Wie wird Ihr Urlaub unvergesslich? - Mit uns!</h2>
+		            <p>Oder sind Sie schonmal um den Mond geflogen? </p>
 		          </div>
 		        </div>
 		    		<div class="row">
@@ -236,7 +237,7 @@
 		            <div class="block-18 text-center mb-4">
 		              <div class="text">
 		                <strong class="number" data-number="4">0</strong>
-		                <span>Planeten Erkundet</span>
+		                <span>Planeten erkundet</span>
 		              </div>
 		            </div>
 		          </div>
@@ -247,17 +248,18 @@
     </section>
 
 
-		<section class="ftco-section">
+
+  	<section class="ftco-section">
     	<div class="container">
     		<div class="row justify-content-center pb-4">
           <div class="col-md-12 heading-section text-center ftco-animate">
-            <h2 class="mb-4">unsere Empfehlungen</h2>
+            <h2 class="mb-4">Unsere Empfehlungen</h2>
           </div>
         </div>
         <div class="row">
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-1.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/mars.jpg);">
         				<div class="text">
         					<h3>Mars Hellas Basin</h3>
         					<span>2 Touren</span>
@@ -267,7 +269,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-2.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/moon.jpg);">
         				<div class="text">
         					<h3>Mond Hellmouth</h3>
         					<span>1 Tour</span>
@@ -277,7 +279,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-3.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/nessus.jpg);">
         				<div class="text">
         					<h3>Nessus Watchers Grave</h3>
         					<span>5 Touren</span>
@@ -287,7 +289,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-4.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/titan.jpg);">
         				<div class="text">
         					<h3>Titan The Festering Halls</h3>
         					<span>3 Touren</span>
@@ -309,7 +311,7 @@
         <div class="row">
         	<div class="col-md-4 ftco-animate">
         		<div class="project-wrap">
-        			<a href="#" class="img" style="background-image: url(images/destination-1.jpg);"></a>
+        			<a href="#" class="img" style="background-image: url(images/mars.jpg);"></a>
         			<div class="text p-4">
         				<span class="price">90.000.000€/person</span>
         				<span class="days">8 Monate Tour</span>
@@ -325,7 +327,7 @@
         	</div>
         	<div class="col-md-4 ftco-animate">
         		<div class="project-wrap">
-        			<a href="#" class="img" style="background-image: url(images/destination-2.jpg);"></a>
+        			<a href="#" class="img" style="background-image: url(images/nessus.jpg);"></a>
         			<div class="text p-4">
         				<span class="price">300.000.000€/person</span>
         				<span class="days">16 Monate Tour</span>
@@ -341,7 +343,7 @@
         	</div>
         	<div class="col-md-4 ftco-animate">
         		<div class="project-wrap">
-        			<a href="#" class="img" style="background-image: url(images/destination-3.jpg);"></a>
+        			<a href="#" class="img" style="background-image: url(images/moon.jpg);"></a>
         			<div class="text p-4">
         				<span class="price">2.500.000€/person</span>
         				<span class="days">2 Monate Tour</span>
@@ -358,7 +360,7 @@
 
         	<div class="col-md-4 ftco-animate">
         		<div class="project-wrap">
-        			<a href="#" class="img" style="background-image: url(images/destination-4.jpg);"></a>
+        			<a href="#" class="img" style="background-image: url(images/spacex.jpg);"></a>
         			<div class="text p-4">
         				<span class="price">Preis auf Anfrage</span>
         				<span class="days"> 24 Monate</span>
@@ -374,7 +376,7 @@
         	</div>
         	<div class="col-md-4 ftco-animate">
         		<div class="project-wrap">
-        			<a href="#" class="img" style="background-image: url(images/destination-5.jpg);"></a>
+        			<a href="#" class="img" style="background-image: url(images/titan.jpg);"></a>
         			<div class="text p-4">
         				<span class="price">36.000.000€/person</span>
         				<span class="days">20 Monate</span>
@@ -383,7 +385,7 @@
         				<ul>
         					<li><span class="flaticon-shower"></span>2</li>
         					<li><span class="flaticon-king-size"></span></li>
-        					<li><span class="flaticon-sun-umbrella"></span>Nahe großer ansammlung an flüssigkeit</li>
+        					<li><span class="flaticon-sun-umbrella"></span>Nahe großer Ansammlung von Flüssigkeit</li>
         				</ul>
         			</div>
         		</div>
@@ -412,7 +414,7 @@
       <div class="container">
         <div class="row justify-content-center pb-4">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-4">unsere Bewertungen</h2>
+            <h2 class="mb-4">Unsere Bewertungen</h2>
           </div>
         </div>
         <div class="row ftco-animate">
