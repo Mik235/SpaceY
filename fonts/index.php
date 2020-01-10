@@ -40,10 +40,10 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Höme</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">Unsere Raketen</a></li>
-	          <li class="nav-item"><a href="destination.html" class="nav-link">Ziele/a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">Über uns</a></li>
+	          <li class="nav-item active"><a href="index.html" class="nav-link">Falcon 9</a></li>
+	          <li class="nav-item"><a href="about.html" class="nav-link">Falcon Heavy</a></li>
+	          <li class="nav-item"><a href="destination.html" class="nav-link">Dragon</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">Starship</a></li>
 	          <li class="nav-item"><a href="contact.html" class="nav-link">Kontakt</a></li>
 	          <li class="nav-item cta"><a href="#" class="nav-link">Buche Jetzt</a></li>
 
