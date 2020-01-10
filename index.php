@@ -51,20 +51,19 @@
 	      </div>
 	    </div>
 	  </nav>
-<<<<<<< Updated upstream
+
 
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5">
-=======
+
     <!-- END nav -->
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
->>>>>>> Stashed changes
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-9 text text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
+          	<a href="https://vimeo.com/236088473" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
           		<span class="ion-ios-play"></span>
             </a>
             <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reise auf andere Planeten mit uns. Ihr etntspannen auf unserem Resort auf dem Mars</p>
