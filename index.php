@@ -66,8 +66,8 @@
           	<a href="https://vimeo.com/236088473" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
           		<span class="ion-ios-play"></span>
             </a>
-            <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reise auf andere Planeten mit uns. Ihr etntspannen auf unserem Resort auf dem Mars</p>
-            <h1 data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Der Mars die neuen Malediven</h1>
+            <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reisen Sie auf einen anderen Planeten mit uns, Ihr Urlaub - unsere Passion!</p>
+            <h1 data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Der Mars -  die neuen Malediven</h1>
           </div>
         </div>
       </div>
@@ -152,9 +152,10 @@
       <div class="container">
         <div class="row d-flex">
           <div class="col-md-6 order-md-last heading-section pl-md-5 ftco-animate">
-          	<h2 class="mb-4">Es ist zeit ihr abenteuer z starten.</h2>
-            <p>In unsemrem Braytech Futurescape Resort in Hellas Basin werden sie Urlaub neu definieren.</p>
-            <p>Weit weg von normalen Urlaubsorten wie Amerika oder den Malediven können sie auf uneren urlaubsorten wie Mars, Tiatn, Nessus und dem Mond eine ganz neue form von urlaub erleben.</p>
+          	<h2 class="mb-4">Es ist Zeit, Ihr Abenteuer zu starten.</h2>
+            <p>In unserem Braytech Futurescape Resort in Hellas Basin wird Urlaub neu definiert.</p>
+            <p>Weit weg von normalen Urlaubsorten wie Italien, Amerika oder den Malediven können Sie auf unseren Urlaubsorten wie dem Mars, dem Titan oder dem Mond eine ganz neue Form von Urlaub erleben.</p>
+            <p>Buchen Sie jetzt!</p>
             <p><a href="#" class="btn btn-primary py-3 px-4">Orte suchen</a></p>
           </div>
           <div class="col-md-6">
@@ -173,8 +174,7 @@
 		              <div class="icon"><span class="flaticon-route"></span></div>
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Geschichte der Orte</h3>
-		                <p>Placeholder Text steht hier weil ich keine ahnung hatte was ich hier hin schreiben soll und deswegen wird hetzberg nich ncih was ausdenken müssen.</p>
-		              </div>
+		                <p>Unberührte Flecken in umserem Weltraum erleben, dort waren Ihre Nachbar bestimmt noch nicht!</p></div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 d-flex align-self-stretch ftco-animate">
@@ -182,7 +182,7 @@
 		              <div class="icon"><span class="flaticon-tour-guide"></span></div>
 		              <div class="media-body">
 		                <h3 class="heading mb-3">Kleingruppen</h3>
-		                <p>Bei unseren Touren werden sie je nach Location in Kleingruppen von 3-6 Personen aufgeteilt. Auf wunsch können diese auch größer werden.</p>
+		                <p>Bei unseren Touren werden sie je nach Location in Kleingruppen von 3-6 Personen aufgeteilt. Auf Wunsch können diese auch größer werden.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -190,8 +190,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-map"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Lorem Ipsum</h3>
-		                <p>A small river named Duden flows by their place and supplies it with the necessary</p>
+		                <h3 class="heading mb-3">Anreise</h3>
+		                <p>Moderne und schnelle Anreise, für Sie so komfortabel wie möglich. Sie werden wieder die exklusivität Spüren, die Fliegen früher versprach.</p>
 		              </div>
 		            </div>
 		          </div>
@@ -210,8 +210,8 @@
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
 		          <div class="col-md-12 heading-section ftco-animate">
-		            <h2 class="mb-4">Wenn du unseren Urlaub buchst wird du diesen definitiv nicht vertgeesen.</h2>
-		            <p>Weit weg von allem was du kennst, erlebe neue Welten oder genieße einen Rundflug um unseren ersten Sattelieten den die Erde jemals hatte den Mond. </p>
+		            <h2 class="mb-4">Wie wird Ihr Urlaub unvergesslich? - Mit uns!</h2>
+		            <p>Oder sind Sie schonmal um den Mond geflogen? </p>
 		          </div>
 		        </div>
 		    		<div class="row">
