@@ -51,20 +51,19 @@
 	      </div>
 	    </div>
 	  </nav>
-<<<<<<< Updated upstream
+
 
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5">
-=======
+
     <!-- END nav -->
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
->>>>>>> Stashed changes
+    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-9 text text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
+          	<a href="https://vimeo.com/236088473" class="icon-video popup-vimeo d-flex align-items-center justify-content-center mb-4">
           		<span class="ion-ios-play"></span>
             </a>
             <p class="caps" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Reisen Sie auf einen anderen Planeten mit uns, Ihr Urlaub - unsere Passion!</p>
@@ -137,7 +136,7 @@
 		        			<div class="col-lg align-self-end">
 		        				<div class="form-group">
 		        					<div class="form-field">
-				                <input type="submit" value="Buy" href="" class="form-control btn btn-primary">
+				                <input type="submit" value="Search" href="" class="form-control btn btn-primary">
 				              </div>
 			              </div>
 		        			</div>
@@ -394,14 +393,14 @@
         		<div class="project-wrap">
         			<a href="#" class="img" style="background-image: url(images/destination-6.jpg);"></a>
         			<div class="text p-4">
-        				<span class="price">$300/person</span>
-        				<span class="days">7 Days Tour</span>
-        				<h3><a href="#">Bali, Indonesia</a></h3>
-        				<p class="location"><span class="ion-ios-map"></span> Bali, Indonesia</p>
+        				<span class="price">3000000000/person</span>
+        				<span class="days">7 Jahre </span>
+        				<h3><a href="#">Saggitarius A*</a></h3>
+        				<p class="location"><span class="ion-ios-map"></span> Zentrum unserer Milchstraße</p>
         				<ul>
-        					<li><span class="flaticon-shower"></span>2</li>
-        					<li><span class="flaticon-king-size"></span>3</li>
-        					<li><span class="flaticon-sun-umbrella"></span>Near Beach</li>
+        					<li><span class="flaticon-shower"></span>4</li>
+        					<li><span class="flaticon-king-size"></span>30</li>
+        					<li><span class="flaticon-sun-umbrella"></span>Nahe Schwarzes Loch</li>
         				</ul>
         			</div>
         		</div>
