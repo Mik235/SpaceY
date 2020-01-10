@@ -137,7 +137,7 @@
 		        			<div class="col-lg align-self-end">
 		        				<div class="form-group">
 		        					<div class="form-field">
-				                <input type="submit" value="Buy" href="" class="form-control btn btn-primary">
+				                <input type="submit" value="Search" href="" class="form-control btn btn-primary">
 				              </div>
 			              </div>
 		        			</div>
