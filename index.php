@@ -55,13 +55,12 @@
 
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5" >
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/A0FZIwabctw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
+      
 
     <!-- END nav -->
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/A0FZIwabctw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
