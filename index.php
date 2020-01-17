@@ -276,7 +276,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-3.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/Nessus.png);">
         				<div class="text">
         					<h3>Nessus Watchers Grave</h3>
         					<span>5 Touren</span>
