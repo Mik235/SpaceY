@@ -266,7 +266,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-2.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/moon_full.jpg);">
         				<div class="text">
         					<h3>Mond Hellmouth</h3>
         					<span>1 Tour</span>
