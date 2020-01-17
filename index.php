@@ -84,34 +84,46 @@
 		        		<div class="row">
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Destination</label>
+		        					<label for="#">Reiseziel</label>
 		          				<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-search"></span></div>
-				                <input type="text" class="form-control" placeholder="Search place">
+				                <input type="text" class="form-control" placeholder="Suche Reiseziel">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-in date</label>
+<<<<<<< HEAD
+		        					<label for="#">Check-in Datum</label>
+=======
+		        					<label for="#">Anreise</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkin_date" placeholder="Check In Date">
+				                <input type="text" class="form-control checkin_date" placeholder="Check In Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-out date</label>
+<<<<<<< HEAD
+		        					<label for="#">Check-out Datum</label>
+=======
+		        					<label for="#">Abreise</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkout_date" placeholder="Check Out Date">
+				                <input type="text" class="form-control checkout_date" placeholder="Check Out Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Price Limit</label>
+<<<<<<< HEAD
+		        					<label for="#">Preisgrenze</label>
+=======
+		        					<label for="#">Preis Limit</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
@@ -138,7 +150,7 @@
 		        			<div class="col-lg align-self-end">
 		        				<div class="form-group">
 		        					<div class="form-field">
-				                <input type="submit" value="Search" href="" class="form-control btn btn-primary">
+				                <input type="submit" value="Suchen" href="" class="form-control btn btn-primary">
 				              </div>
 			              </div>
 		        			</div>
@@ -175,8 +187,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-route"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Geschichte der Orte</h3>
-		                <p>Unberührte Flecken in umserem Weltraum erleben, dort waren Ihre Nachbar bestimmt noch nicht!</p></div>
+		                <h3 class="heading mb-3">Geschichten</h3>
+		                <p>Sie wollen unberührte Flecken unseres Weltalls erleben? Nur mit uns können Sie diese Erfahrungen machen.</p></div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 d-flex align-self-stretch ftco-animate">
@@ -413,7 +425,7 @@
       <div class="container">
         <div class="row justify-content-center pb-4">
           <div class="col-md-7 text-center heading-section ftco-animate">
-            <h2 class="mb-4">unsere Bewertungen</h2>
+            <h2 class="mb-4">Unsere Bewertungen</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -422,12 +434,12 @@
               <div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Neueste Technik, große Maschinen und die unendliche Weite. Besser kann man eine Reise mit SpaceY nicht beschreiben. Die beste Erfahrung meines Lebens!</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                     	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
+		                    <p class="name">Heinzel Nixdorf</p>
+		                    <span class="position">CEO Nixdorf Siemens</span>
 		                  </div>
 	                  </div>
                   </div>
@@ -436,12 +448,12 @@
               <div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Eine Reise zum Mond, 2 Monate Auszeit und der beste Yoga Kurs mit Aussicht auf die Erde. Beste Entscheidung meines bisherigen Lebens.</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
                     	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
+		                    <p class="name">Steven Jobes</p>
+		                    <span class="position">CEO PEAR Computers</span>
 		                  </div>
 	                  </div>
                   </div>
@@ -450,12 +462,12 @@
               <div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Den roten Planeten aus nächster Nähe sehen und ein wenig Marsstaub für die Enkelkinder. Wie soll man Leben, ohne solch eine Erfahrung gemacht zu haben?</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
                     	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
+		                    <p class="name">Billy Gates</p>
+		                    <span class="position">CEO Fenster Computer</span>
 		                  </div>
 	                  </div>
                   </div>
@@ -464,18 +476,18 @@
               <div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+                    <p class="mb-4">Eine Rundreise mit einem Spaceshuttle - Vergangenheit. Heute sollte man mit SpaceY reisen. Egal wohin, meine nächsten Reisen werde ich wieder Kunde sein.</p>
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
                     	<div class="pl-3">
-		                    <p class="name">Roger Scott</p>
-		                    <span class="position">Marketing Manager</span>
+		                    <p class="name">Elon Muskel</p>
+		                    <span class="position">CEO SpaceXYZ</span>
 		                  </div>
 	                  </div>
                   </div>
                 </div>
               </div>
-              <div class="item">
+              <!--<div class="item">
                 <div class="testimony-wrap py-4">
                   <div class="text">
                     <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
@@ -492,11 +504,11 @@
             </div>
           </div>
         </div>
-      </div>
+      </div>-->
     </section>
 
 
-    <section class="ftco-section">
+  <!--  <section class="ftco-section">
       <div class="container">
       	<div class="row justify-content-center pb-4">
           <div class="col-md-12 heading-section text-center ftco-animate">
@@ -563,15 +575,16 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-->
 
     <footer class="ftco-footer bg-bottom" style="background-image: url(images/footer-bg.jpg);">
       <div class="container">
         <div class="row mb-5">
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Urlaub</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+              <h2 class="ftco-heading-2">Ihr Urlaub - unsere Passion!</h2>
+              <p>Egal wohin Sie wollen, wir sind Ihr Partner!</p>
+              <p>Ob Mond, Mars oder Titan, unsere Erfahrung - Ihre Erinnerung.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
                 <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
                 <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
@@ -581,38 +594,38 @@
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4 ml-md-5">
-              <h2 class="ftco-heading-2">Infromationen</h2>
+              <h2 class="ftco-heading-2">Informationen</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Online Enquiry</a></li>
-                <li><a href="#" class="py-2 d-block">General Enquiries</a></li>
-                <li><a href="#" class="py-2 d-block">Booking Conditions</a></li>
-                <li><a href="#" class="py-2 d-block">Privacy and Policy</a></li>
-                <li><a href="#" class="py-2 d-block">Refund Policy</a></li>
-                <li><a href="#" class="py-2 d-block">Call Us</a></li>
+                <li><a href="#" class="py-2 d-block">AGB</a></li>
+                <li><a href="#" class="py-2 d-block">Nutzungsbedingungen</a></li>
+                <li><a href="#" class="py-2 d-block">Buchungskonditionen</a></li>
+                <li><a href="#" class="py-2 d-block">Datenschutzerklärung</a></li>
+                <!--<li><a href="#" class="py-2 d-block">Refund Policy</a></li>-->
+                <li><a href="contact.php" class="py-2 d-block">Impressum</a></li>
               </ul>
             </div>
           </div>
           <div class="col-md">
              <div class="ftco-footer-widget mb-4">
-              <h2 class="ftco-heading-2">Experience</h2>
+              <h2 class="ftco-heading-2">Was suchen Sie?</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">Adventure</a></li>
-                <li><a href="#" class="py-2 d-block">Hotel and Restaurant</a></li>
-                <li><a href="#" class="py-2 d-block">Beach</a></li>
-                <li><a href="#" class="py-2 d-block">Nature</a></li>
+                <!--<li><a href="" class="py-2 d-block">Abenteuer</a></li><-->
+                <li><a href="about.html" class="py-2 d-block">Unsere Fahrzeuge</a></li>
+                <li><a href="destination.html" class="py-2 d-block">Reiseziele</a></li>
+                <!--<li><a href="#" class="py-2 d-block">Nature</a></li>
                 <li><a href="#" class="py-2 d-block">Camping</a></li>
-                <li><a href="#" class="py-2 d-block">Party</a></li>
+                <li><a href="#" class="py-2 d-block">Party</a></li>-->
               </ul>
             </div>
           </div>
           <div class="col-md">
             <div class="ftco-footer-widget mb-4">
-            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<h2 class="ftco-heading-2">Weitere Fragen?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+	                <li><span class="icon icon-map-marker"></span><span class="text">SpaceY Str. 48, 51345 Köln</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+0049 2202 12345678</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">noreply@SpaceY.space</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -622,7 +635,7 @@
           <div class="col-md-12 text-center">
 
             <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved - SpaceY Space Travel</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
           </div>
         </div>
