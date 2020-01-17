@@ -40,10 +40,10 @@
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
-	          <li class="nav-item active"><a href="index.html" class="nav-link">Home</a></li>
+	          <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="about.html" class="nav-link">Unsere Fahrzeuge</a></li>
 	          <li class="nav-item"><a href="destination.html" class="nav-link">Reiseziele</a></li>
-	          <li class="nav-item"><a href="blog.html" class="nav-link">über uns</a></li>
+	          <li class="nav-item"><a href="blog.html" class="nav-link">Über Uns</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Kontakt</a></li>
 	          <li class="nav-item cta"><a href="#" class="nav-link">Buche Jetzt</a></li>
 
@@ -256,7 +256,7 @@
         <div class="row">
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-1.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/mars_full.jpg);">
         				<div class="text">
         					<h3>Mars Hellas Basin</h3>
         					<span>2 Touren</span>
@@ -266,7 +266,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-2.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/moon_full.jpg);">
         				<div class="text">
         					<h3>Mond Hellmouth</h3>
         					<span>1 Tour</span>
@@ -276,7 +276,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-3.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/ixion.jpg);">
         				<div class="text">
         					<h3>Nessus Watchers Grave</h3>
         					<span>5 Touren</span>
@@ -286,7 +286,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-4.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/titan_moon.jpg);">
         				<div class="text">
         					<h3>Titan The Festering Halls</h3>
         					<span>3 Touren</span>

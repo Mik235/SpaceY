@@ -48,10 +48,10 @@ mail($empfaenger, $betreff, $nachricht, $header);
 
        <div class="collapse navbar-collapse" id="ftco-nav">
          <ul class="navbar-nav ml-auto">
-           <li class="nav-item "><a href="index.php" class="nav-link">Falcon 9</a></li>
-           <li class="nav-item"><a href="about.html" class="nav-link">Falcon Heavy</a></li>
-           <li class="nav-item"><a href="destination.html" class="nav-link">Dragon</a></li>
-           <li class="nav-item"><a href="blog.html" class="nav-link">Starship</a></li>
+           <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+           <li class="nav-item"><a href="about.html" class="nav-link">Unsere Fahrzeuge</a></li>
+           <li class="nav-item"><a href="destination.html" class="nav-link">Reiseziele</a></li>
+           <li class="nav-item"><a href="blog.html" class="nav-link">Über Uns</a></li>
            <li class="nav-item active"><a href="contact.php" class="nav-link">Kontakt</a></li>
            <li class="nav-item cta"><a href="#" class="nav-link">Buche Jetzt</a></li>
 
