@@ -256,7 +256,7 @@
         <div class="row">
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/place-1.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/mars_full.jpg);">
         				<div class="text">
         					<h3>Mars Hellas Basin</h3>
         					<span>2 Touren</span>
