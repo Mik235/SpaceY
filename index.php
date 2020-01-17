@@ -84,7 +84,7 @@
 		        		<div class="row">
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Destination</label>
+		        					<label for="#">Reiseziel</label>
 		          				<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-search"></span></div>
 				                <input type="text" class="form-control" placeholder="Search place">
@@ -93,7 +93,7 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-in date</label>
+		        					<label for="#">Anreise</label>
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
 				                <input type="text" class="form-control checkin_date" placeholder="Check In Date">
@@ -102,7 +102,7 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-out date</label>
+		        					<label for="#">Abreise</label>
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
 				                <input type="text" class="form-control checkout_date" placeholder="Check Out Date">
@@ -111,7 +111,7 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Price Limit</label>
+		        					<label for="#">Preis Limit</label>
 		        					<div class="form-field">
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
