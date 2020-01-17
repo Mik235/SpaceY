@@ -286,7 +286,7 @@
         	</div>
         	<div class="col-md-3 ftco-animate">
         		<div class="project-destination">
-        			<a href="#" class="img" style="background-image: url(images/titan moon.jpg);">
+        			<a href="#" class="img" style="background-image: url(images/titan_moon.jpg);">
         				<div class="text">
         					<h3>Titan The Festering Halls</h3>
         					<span>3 Touren</span>
