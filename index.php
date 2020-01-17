@@ -55,7 +55,7 @@
 
 
     <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_2.jpeg');" data-stellar-background-ratio="0.5" >
-      
+
 
     <!-- END nav -->
 
@@ -207,7 +207,7 @@
     	<div class="container">
     		<div class="row d-flex">
     			<div class="col-md-6 d-flex">
-    				<div class="img d-flex align-self-stretch" style="background-image:url(images/about.jpg);"></div>
+    				<div class="img d-flex align-self-stretch" style="background-image:url(images/Cybertruck-On-Mars.jpg);"></div>
     			</div>
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
