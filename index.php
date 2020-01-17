@@ -82,34 +82,34 @@
 		        		<div class="row">
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Destination</label>
+		        					<label for="#">Reiseziel</label>
 		          				<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-search"></span></div>
-				                <input type="text" class="form-control" placeholder="Search place">
+				                <input type="text" class="form-control" placeholder="Suche Reiseziel">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-in date</label>
+		        					<label for="#">Check-in Datum</label>
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkin_date" placeholder="Check In Date">
+				                <input type="text" class="form-control checkin_date" placeholder="Check In Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Check-out date</label>
+		        					<label for="#">Check-out Datum</label>
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkout_date" placeholder="Check Out Date">
+				                <input type="text" class="form-control checkout_date" placeholder="Check Out Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-		        					<label for="#">Price Limit</label>
+		        					<label for="#">Preisgrenze</label>
 		        					<div class="form-field">
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
@@ -136,7 +136,7 @@
 		        			<div class="col-lg align-self-end">
 		        				<div class="form-group">
 		        					<div class="form-field">
-				                <input type="submit" value="Search" href="" class="form-control btn btn-primary">
+				                <input type="submit" value="Suchen" href="" class="form-control btn btn-primary">
 				              </div>
 			              </div>
 		        			</div>
@@ -173,8 +173,8 @@
 		            <div class="media block-6 services d-block">
 		              <div class="icon"><span class="flaticon-route"></span></div>
 		              <div class="media-body">
-		                <h3 class="heading mb-3">Geschichte der Orte</h3>
-		                <p>Unberührte Flecken in umserem Weltraum erleben, dort waren Ihre Nachbar bestimmt noch nicht!</p></div>
+		                <h3 class="heading mb-3">Geschichten</h3>
+		                <p>Sie wollen unberührte Flecken unseres Weltalls erleben? Nur mit uns können Sie diese Erfahrungen machen.</p></div>
 		            </div>
 		          </div>
 		          <div class="col-md-6 d-flex align-self-stretch ftco-animate">
