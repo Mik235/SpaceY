@@ -93,7 +93,11 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
+<<<<<<< HEAD
 		        					<label for="#">Check-in Datum</label>
+=======
+		        					<label for="#">Anreise</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
 				                <input type="text" class="form-control checkin_date" placeholder="Check In Datum">
@@ -102,7 +106,11 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
+<<<<<<< HEAD
 		        					<label for="#">Check-out Datum</label>
+=======
+		        					<label for="#">Abreise</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
 				                <input type="text" class="form-control checkout_date" placeholder="Check Out Datum">
@@ -111,7 +119,11 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
+<<<<<<< HEAD
 		        					<label for="#">Preisgrenze</label>
+=======
+		        					<label for="#">Preis Limit</label>
+>>>>>>> master
 		        					<div class="form-field">
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
@@ -207,7 +219,7 @@
     	<div class="container">
     		<div class="row d-flex">
     			<div class="col-md-6 d-flex">
-    				<div class="img d-flex align-self-stretch" style="background-image:url(images/about.jpg);"></div>
+    				<div class="img d-flex align-self-stretch" style="background-image:url(images/Cybertruck-On-Mars.jpg);"></div>
     			</div>
     			<div class="col-md-6 pl-md-5 py-5">
     				<div class="row justify-content-start pb-3">
