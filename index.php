@@ -433,8 +433,8 @@
                     <div class="d-flex align-items-center">
                     	<div class="user-img" style="background-image: url(images/bezos.jpg)"></div>
                     	<div class="pl-3">
-		                    <p class="name">Heinzel Nixdorf</p>
-		                    <span class="position">CEO Nixdorf Siemens</span>
+		                    <p class="name">Jeffos Bezos</p>
+		                    <span class="position">CEO Amazons</span>
 		                  </div>
 	                  </div>
                   </div>
