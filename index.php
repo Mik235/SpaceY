@@ -41,7 +41,7 @@
 	      <div class="collapse navbar-collapse" id="ftco-nav">
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item active"><a href="index.php" class="nav-link">Home</a></li>
-	          <li class="nav-item"><a href="about.html" class="nav-link">Unsere Fahrzeuge</a></li>
+	          <li class="nav-item"><a href="vehicles.html" class="nav-link">Unsere Fahrzeuge</a></li>
 	          <li class="nav-item"><a href="destination.html" class="nav-link">Reiseziele</a></li>
 	          <li class="nav-item"><a href="blog.html" class="nav-link">Über Uns</a></li>
 	          <li class="nav-item"><a href="contact.php" class="nav-link">Kontakt</a></li>
