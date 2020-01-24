@@ -431,7 +431,7 @@
                   <div class="text">
                     <p class="mb-4">Neueste Technik, große Maschinen und die unendliche Weite. Besser kann man eine Reise mit SpaceY nicht beschreiben. Die beste Erfahrung meines Lebens!</p>
                     <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/musk.jpg)"></div>
+                    	<div class="user-img" style="background-image: url(images/bezos.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Heinzel Nixdorf</p>
 		                    <span class="position">CEO Nixdorf Siemens</span>
@@ -445,7 +445,7 @@
                   <div class="text">
                     <p class="mb-4">Eine Reise zum Mond, 2 Monate Auszeit und der beste Yoga Kurs mit Aussicht auf die Erde. Beste Entscheidung meines bisherigen Lebens.</p>
                     <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/bezos.jpg)"></div>
+                    	<div class="user-img" style="background-image: url(images/jobs.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Steven Jobes</p>
 		                    <span class="position">CEO PEAR Computers</span>
@@ -459,7 +459,7 @@
                   <div class="text">
                     <p class="mb-4">Den roten Planeten aus nächster Nähe sehen und ein wenig Marsstaub für die Enkelkinder. Wie soll man Leben, ohne solch eine Erfahrung gemacht zu haben?</p>
                     <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/jobs.jpg)"></div>
+                    	<div class="user-img" style="background-image: url(images/gates.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Billy Gates</p>
 		                    <span class="position">CEO Fenster Computer</span>
@@ -473,7 +473,7 @@
                   <div class="text">
                     <p class="mb-4">Eine Rundreise mit einem Spaceshuttle - Vergangenheit. Heute sollte man mit SpaceY reisen. Egal wohin, meine nächsten Reisen werde ich wieder Kunde sein.</p>
                     <div class="d-flex align-items-center">
-                    	<div class="user-img" style="background-image: url(images/gates.jpg)"></div>
+                    	<div class="user-img" style="background-image: url(images/musk.jpg)"></div>
                     	<div class="pl-3">
 		                    <p class="name">Elon Muskel</p>
 		                    <span class="position">CEO SpaceXYZ</span>
