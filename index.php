@@ -93,37 +93,32 @@
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-<<<<<<< HEAD
-		        					<label for="#">Check-in Datum</label>
-=======
+
+
 		        					<label for="#">Anreise</label>
->>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkin_date" placeholder="Check In Datum">
+				                <input type="text" class="form-control checkin_date" placeholder="Anreise Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-<<<<<<< HEAD
-		        					<label for="#">Check-out Datum</label>
-=======
+		        				<!--	<label for="#">Check-out Datum</label> -->
+
 		        					<label for="#">Abreise</label>
->>>>>>> master
 		        					<div class="form-field">
 		          					<div class="icon"><span class="ion-ios-calendar"></span></div>
-				                <input type="text" class="form-control checkout_date" placeholder="Check Out Datum">
+				                <input type="text" class="form-control checkout_date" placeholder="Abreise Datum">
 				              </div>
 			              </div>
 		        			</div>
 		        			<div class="col-lg align-items-end">
 		        				<div class="form-group">
-<<<<<<< HEAD
+
 		        					<label for="#">Preisgrenze</label>
-=======
-		        					<label for="#">Preis Limit</label>
->>>>>>> master
+
+
 		        					<div class="form-field">
 		          					<div class="select-wrap">
 		                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
@@ -264,7 +259,7 @@
     	<div class="container">
     		<div class="row justify-content-center pb-4">
           <div class="col-md-12 heading-section text-center ftco-animate">
-            <h2 class="mb-4">unsere Empfehlungen</h2>
+            <h2 class="mb-4">Unsere Empfehlungen</h2>
           </div>
         </div>
         <div class="row">
