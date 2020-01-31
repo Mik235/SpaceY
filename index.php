@@ -33,7 +33,7 @@
   <body>
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
-	      <a class="navbar-brand" href="index.html">Space Y<span>Space Travel</span></a>
+	      <a class="navbar-brand" href="index.php">Space Y<span>Space Travel</span></a>
 	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
 	        <span class="oi oi-menu"></span> Menü
 	      </button>
@@ -596,7 +596,7 @@
                 <li><a href="#" class="py-2 d-block">Buchungskonditionen</a></li>
                 <li><a href="#" class="py-2 d-block">Datenschutzerklärung</a></li>
                 <!--<li><a href="#" class="py-2 d-block">Refund Policy</a></li>-->
-                <li><a href="Impressum.php" class="py-2 d-block">Impressum</a></li>
+                <li><a href="impressum.php" class="py-2 d-block">Impressum</a></li>
               </ul>
             </div>
           </div>
