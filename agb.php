@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="de">
   <head>
-    <title>Space Y Impressum</title>
+    <title>Space Y AGB</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -56,20 +56,14 @@
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Impressum</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Impressum <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">AGB</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>AGB <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
     </section>
 
-    <section>
-      <p><strong>Impressum</strong></p>
-<p>Anbieter:<br/>SpaceY Space Travel<br/>SpaceY Str. 48<br />51345 Köln</p>
-<p>Kontakt:<br />0049 2202 12345678<br /><br />E-Mail: noreply@SpaceY.space<br />Website: www.spaceY.com</p>
-<p> </p>
 
-    </section>
 
     <section class="ftco-section ftco-no-pb contact-section">
       <div class="container">
@@ -164,7 +158,7 @@
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Informationen</h2>
               <ul class="list-unstyled">
-                <li><a href="#" class="py-2 d-block">AGB</a></li>
+                <li><a href="abg.php" class="py-2 d-block">AGB</a></li>
                 <li><a href="#" class="py-2 d-block">Nutzungsbedingungen</a></li>
                 <li><a href="#" class="py-2 d-block">Buchungskonditionen</a></li>
                 <li><a href="#" class="py-2 d-block">Datenschutzerklärung</a></li>
