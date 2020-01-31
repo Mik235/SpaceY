@@ -65,11 +65,9 @@
 
     <section>
       <p><strong>Impressum</strong></p>
-<p>Anbieter:<br />Max Mustermann<br />Musterstraße 1<br />80999 München</p>
-<p>Kontakt:<br />Telefon: 089/1234567-8<br />Telefax: 089/1234567-9<br />E-Mail: mail@mustermann.de<br />Website: www.mustermann.de</p>
+<p>Anbieter:<br/>SpaceY Space Travel<br/>SpaceY Str. 48<br />51345 Köln</p>
+<p>Kontakt:<br />0049 2202 12345678<br /><br />E-Mail: noreply@SpaceY.space<br />Website: www.spaceY.com</p>
 <p> </p>
-<p>Bei redaktionellen Inhalten:</p>
-<p>Verantwortlich nach § 55 Abs.2 RStV<br />Moritz Schreiberling<br />Musterstraße 2<br />80999 München</p>
 
     </section>
 
