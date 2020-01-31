@@ -596,7 +596,7 @@
                 <li><a href="#" class="py-2 d-block">Buchungskonditionen</a></li>
                 <li><a href="#" class="py-2 d-block">Datenschutzerklärung</a></li>
                 <!--<li><a href="#" class="py-2 d-block">Refund Policy</a></li>-->
-                <li><a href="contact.php" class="py-2 d-block">Impressum</a></li>
+                <li><a href="Impressum.php" class="py-2 d-block">Impressum</a></li>
               </ul>
             </div>
           </div>

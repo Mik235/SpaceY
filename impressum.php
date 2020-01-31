@@ -1,19 +1,9 @@
-<?php
-$empfaenger = 'lukas.hertzberg@edu.bib.de';
-$betreff = 'Newsletter Bestätigung';
-$nachricht = 'Hallo, Danke für die Registrierung des Newsletters. ';
-$header = 'From: noreply@SpaceY.space' . "\r\n" .
-'Reply-To: noreply@SpaceY.space' . "\r\n" .
-  'X-Mailer: PHP/' . phpversion();
 
-mail($empfaenger, $betreff, $nachricht, $header);
-
- ?>
 
 <!DOCTYPE html>
 <html lang="de">
   <head>
-    <title>Space Y Kontakt</title>
+    <title>Space Y Impressum</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -52,7 +42,7 @@ mail($empfaenger, $betreff, $nachricht, $header);
            <li class="nav-item"><a href="about.html" class="nav-link">Unsere Fahrzeuge</a></li>
            <li class="nav-item"><a href="destination.html" class="nav-link">Reiseziele</a></li>
            <li class="nav-item"><a href="blog.html" class="nav-link">Über Uns</a></li>
-           <li class="nav-item active"><a href="contact.php" class="nav-link">Kontakt</a></li>
+           <li class="nav-item"><a href="contact.php" class="nav-link">Kontakt</a></li>
            <li class="nav-item cta"><a href="#" class="nav-link">Buche Jetzt</a></li>
 
 	        </ul>
@@ -66,11 +56,21 @@ mail($empfaenger, $betreff, $nachricht, $header);
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate pb-5 text-center">
-            <h1 class="mb-3 bread">Ihr direkter Draht zu uns</h1>
-            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Kontakt <i class="ion-ios-arrow-forward"></i></span></p>
+            <h1 class="mb-3 bread">Impressum</h1>
+            <p class="breadcrumbs"><span class="mr-2"><a href="index.html">Home <i class="ion-ios-arrow-forward"></i></a></span> <span>Impressum <i class="ion-ios-arrow-forward"></i></span></p>
           </div>
         </div>
       </div>
+    </section>
+
+    <section>
+      <p><strong>Impressum</strong></p>
+<p>Anbieter:<br />Max Mustermann<br />Musterstraße 1<br />80999 München</p>
+<p>Kontakt:<br />Telefon: 089/1234567-8<br />Telefax: 089/1234567-9<br />E-Mail: mail@mustermann.de<br />Website: www.mustermann.de</p>
+<p> </p>
+<p>Bei redaktionellen Inhalten:</p>
+<p>Verantwortlich nach § 55 Abs.2 RStV<br />Moritz Schreiberling<br />Musterstraße 2<br />80999 München</p>
+
     </section>
 
     <section class="ftco-section ftco-no-pb contact-section">
@@ -116,7 +116,7 @@ mail($empfaenger, $betreff, $nachricht, $header);
       </div>
     </section>
 
-		<section class="ftco-section contact-section">
+	<!--	<section class="ftco-section contact-section">
       <div class="container">
         <div class="row block-9">
           <div class="col-md-6 order-md-last d-flex">
@@ -138,7 +138,7 @@ mail($empfaenger, $betreff, $nachricht, $header);
               </div>
             </form>
 
-          </div>
+          </div>-->
 
           <div class="col-md-6 d-flex">
           	<div id="map" class="bg-white"></div>
