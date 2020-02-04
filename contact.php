@@ -6,7 +6,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
 'Reply-To: noreply@SpaceY.space' . "\r\n" .
   'X-Mailer: PHP/' . phpversion();
 
-mail($empfaenger, $betreff, $nachricht, $header);
+//mail($empfaenger, $betreff, $nachricht, $header);
 
  ?>
 
@@ -82,7 +82,7 @@ mail($empfaenger, $betreff, $nachricht, $header);
           			<span class="icon-map-signs"></span>
           		</div>
           		<h3 class="mb-2">Adresse</h3>
-	            <p>SpaceY Str. 48, 51345 Köln</p>
+	            <p>SpaceY Str. 48, 51109 Köln</p>
 	          </div>
           </div>
           <div class="col-md-3 d-flex">
@@ -166,11 +166,11 @@ mail($empfaenger, $betreff, $nachricht, $header);
             <div class="ftco-footer-widget mb-4 ml-md-5">
               <h2 class="ftco-heading-2">Informationen</h2>
               <ul class="list-unstyled">
-                <li><a href="agb.php" class="py-2 d-block">AGB</a></li>
+                <li><a href="abg.php" class="py-2 d-block">AGB</a></li>
                 <li><a href="#" class="py-2 d-block">Nutzungsbedingungen</a></li>
                 <li><a href="#" class="py-2 d-block">Buchungskonditionen</a></li>
                 <li><a href="#" class="py-2 d-block">Datenschutzerklärung</a></li>
-                <!--<li><a href="#" class="py-2 d-block">Refund Policy</a></li>-->
+
                 <li><a href="impressum.php" class="py-2 d-block">Impressum</a></li>
               </ul>
             </div>
@@ -179,12 +179,10 @@ mail($empfaenger, $betreff, $nachricht, $header);
              <div class="ftco-footer-widget mb-4">
               <h2 class="ftco-heading-2">Was suchen Sie?</h2>
               <ul class="list-unstyled">
-                <!--<li><a href="" class="py-2 d-block">Abenteuer</a></li><-->
+
                 <li><a href="about.html" class="py-2 d-block">Unsere Fahrzeuge</a></li>
                 <li><a href="destination.html" class="py-2 d-block">Reiseziele</a></li>
-                <!--<li><a href="#" class="py-2 d-block">Nature</a></li>
-                <li><a href="#" class="py-2 d-block">Camping</a></li>
-                <li><a href="#" class="py-2 d-block">Party</a></li>-->
+                
               </ul>
             </div>
           </div>
