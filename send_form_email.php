@@ -21,7 +21,7 @@ if(isset($_POST['email'])) {
         !isset($_POST['email']) ||
         !isset($_POST['telephone']) ||
         !isset($_POST['comments'])) {
-        died('Wir entschuldigen uns für diese umstände, es gibt jedoch ein Problem mit dem Formular. ');
+        died('Wir entschuldigen uns für diese Umstände, es gibt jedoch ein Problem mit dem Formular. ');
     }
 
 

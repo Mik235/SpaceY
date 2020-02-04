@@ -49,7 +49,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
        <div class="collapse navbar-collapse" id="ftco-nav">
          <ul class="navbar-nav ml-auto">
            <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
-           <li class="nav-item"><a href="about.html" class="nav-link">Unsere Fahrzeuge</a></li>
+           <li class="nav-item"><a href="vehicles.html" class="nav-link">Unsere Fahrzeuge</a></li>
            <li class="nav-item"><a href="destination.html" class="nav-link">Reiseziele</a></li>
            <li class="nav-item"><a href="blog.html" class="nav-link">Über Uns</a></li>
            <li class="nav-item active"><a href="contact.php" class="nav-link">Kontakt</a></li>
@@ -129,7 +129,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
               </div>
 
               <div class="form-group">
-                <input name="email"type="text" class="form-control" placeholder="Email">
+                <input name="email"type="email" class="form-control" placeholder="Email">
               </div>
 
               <div class="form-group">
@@ -188,7 +188,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
               <h2 class="ftco-heading-2">Was suchen Sie?</h2>
               <ul class="list-unstyled">
 
-                <li><a href="about.html" class="py-2 d-block">Unsere Fahrzeuge</a></li>
+                <li><a href="vehicles.html" class="py-2 d-block">Unsere Fahrzeuge</a></li>
                 <li><a href="destination.html" class="py-2 d-block">Reiseziele</a></li>
 
               </ul>
