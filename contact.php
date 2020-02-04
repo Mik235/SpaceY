@@ -129,7 +129,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
               </div>
 
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Email">
+                <input type="email" class="form-control" placeholder="Email">
               </div>
 
               <div class="form-group">
@@ -190,7 +190,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
 
                 <li><a href="about.html" class="py-2 d-block">Unsere Fahrzeuge</a></li>
                 <li><a href="destination.html" class="py-2 d-block">Reiseziele</a></li>
-                
+
               </ul>
             </div>
           </div>
