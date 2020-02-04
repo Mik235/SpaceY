@@ -120,7 +120,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
       <div class="container">
         <div class="row block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="send_form_email.php" class="bg-light p-5 contact-form">
+            <form name="contactform" method="post"action="send_form_email.php" class="bg-light p-5 contact-form">
               <div class="form-group">
                 <input name="first_name" type="text" class="form-control" placeholder="Vorname">
               </div>
