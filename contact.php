@@ -122,10 +122,18 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
           <div class="col-md-6 order-md-last d-flex">
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Name">
+                <input type="text" class="form-control" placeholder="Vorname">
               </div>
               <div class="form-group">
+                <input type="text" class="form-control" placeholder="Nachname">
+              </div>
+
+              <div class="form-group">
                 <input type="text" class="form-control" placeholder="Email">
+              </div>
+
+              <div class="form-group">
+                <input type="text" class="form-control" placeholder="Telefon">
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Betreff">
