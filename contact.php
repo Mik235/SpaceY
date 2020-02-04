@@ -120,20 +120,20 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
       <div class="container">
         <div class="row block-9">
           <div class="col-md-6 order-md-last d-flex">
-            <form action="#" class="bg-light p-5 contact-form">
+            <form action="send_form_email.php" class="bg-light p-5 contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Vorname">
+                <input name="first_name" type="text" class="form-control" placeholder="Vorname">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Nachname">
-              </div>
-
-              <div class="form-group">
-                <input type="email" class="form-control" placeholder="Email">
+                <input name="last_name" type="text" class="form-control" placeholder="Nachname">
               </div>
 
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Telefon">
+                <input name="email"type="text" class="form-control" placeholder="Email">
+              </div>
+
+              <div class="form-group">
+                <input name="telephone"type="text" class="form-control" placeholder="Telefon">
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Betreff">
@@ -142,7 +142,7 @@ $header = 'From: noreply@SpaceY.space' . "\r\n" .
                 <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Ihre Nachricht an uns"></textarea>
               </div>
               <div class="form-group">
-                <input type="submit" value="Nachricht senden" class="btn btn-primary py-3 px-5">
+                <input name="comments" type="submit" value="Nachricht senden" class="btn btn-primary py-3 px-5">
               </div>
             </form>
 
