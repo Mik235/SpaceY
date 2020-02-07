@@ -161,7 +161,7 @@
       <div class="container">
         <div class="row d-flex">
           <div class="col-md-6 order-md-last heading-section pl-md-5 ftco-animate">
-          	<h2 class="mb-4">Es ist Zeit, Ihr Abenteuer zu starten.</h2>
+          	<h2 class="mb-4">Es ist Zeit, Ihr Abenteuer zu starten</h2>
             <p>In unserem Braytech Futurescape Resort in Hellas Basin wird Urlaub neu definiert.</p>
             <p>Weit weg von normalen Urlaubsorten wie Italien, Amerika oder den Malediven können Sie auf unseren Urlaubsorten wie dem Mars, dem Titan oder dem Mond eine ganz neue Form von Urlaub erleben.</p>
             <p>Buchen Sie jetzt!</p>
